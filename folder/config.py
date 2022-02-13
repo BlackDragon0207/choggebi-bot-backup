@@ -1,4 +1,4 @@
-Token = ''
+Token = '토큰'
 
 whitelist = [
 
